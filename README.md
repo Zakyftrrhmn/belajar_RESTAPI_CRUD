@@ -20,7 +20,7 @@ Setiap entitas Mahasiswa memiliki atribut berikut:
 🚀 Instalasi dan Penggunaan
 <strong>Klon repositori ini</strong>
 
-git clone https://github.com/username/belajar_RESTAPI_CRUD.git <br/>
+git clone https://github.com/Zakyftrrhmn/belajar_RESTAPI_CRUD.git <br/>
 cd belajar_RESTAPI_CRUD <br/>
 composer install <br/>
 cp .env.example .env <br/>
