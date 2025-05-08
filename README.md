@@ -1,4 +1,4 @@
-<h1 align="center">📚 belajar_RESTAPI_CRUD</h1> <p align="center"> <em>Implementasi RESTful API sederhana menggunakan Laravel untuk operasi CRUD pada data Mahasiswa.</em> </p>
+<h1 align="center">📚 belajar_RESTAPI_CRUD</h1> <p align="center"> <em>Implementasi RESTful API sederhana menggunakan Laravel dan JAVA untuk operasi CRUD pada data Mahasiswa.</em> </p>
 ✨ Fitur Utama
 - Menambahkan data Mahasiswa <br/>
 - Menampilkan daftar Mahasiswa <br/>
